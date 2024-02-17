@@ -9,7 +9,7 @@ import ProjectDisplay from "./pages/ProjectDisplay";
 
 function App() {
   return (
-    <div className="App">
+    <div className="App">0-
       <Router>
         <Navbar />
         <Routes>
